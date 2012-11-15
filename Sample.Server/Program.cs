@@ -46,7 +46,8 @@ namespace Sample.Server
         private static ILogger _logger;
 
 		static void Main(string[] args)
-		{App_Start.NHibernateProfilerBootstrapper.PreStart();
+		{
+App_Start.NHibernateProfilerBootstrapper.PreStart();
 
 
 			XmlConfigurator.Configure();
@@ -291,5 +292,6 @@ namespace Sample.Server
 		}
 	}
 }
+
 
 
