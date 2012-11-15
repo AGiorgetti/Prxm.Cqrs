@@ -78,9 +78,6 @@
     <Reference Include="EventStore.Persistence.MongoPersistence">
       <HintPath>..\libs\EventStore\plugins\persistence\mongo\EventStore.Persistence.MongoPersistence.dll</HintPath>
     </Reference>
-    <Reference Include="Fasterflect">
-      <HintPath>..\packages\fasterflect.2.1.0\lib\net40\Fasterflect.dll</HintPath>
-    </Reference>
     <Reference Include="HibernatingRhinos.Profiler.Appender.v4.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0774796e73ebf640, processorArchitecture=MSIL">
       <HintPath>..\packages\NHibernateProfiler.1.0.0.951\lib\Net40\HibernatingRhinos.Profiler.Appender.v4.0.dll</HintPath>
     </Reference>

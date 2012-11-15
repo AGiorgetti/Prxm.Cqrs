@@ -45,7 +45,7 @@
       <HintPath>..\libs\CommonDomain\CommonDomain.dll</HintPath>
     </Reference>
     <Reference Include="Fasterflect">
-      <HintPath>..\packages\fasterflect.2.1.0\lib\net40\Fasterflect.dll</HintPath>
+      <HintPath>..\libs\Fasterflect.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
